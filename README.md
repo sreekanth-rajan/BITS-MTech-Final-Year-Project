@@ -74,8 +74,3 @@ For any queries or contributions, feel free to contact:
 - **Email**: [perfectvlogger333@gmail.com]
 - **GitHub Repository**: [[Repository URL](https://github.com/sreekanth-rajan/BITS-MTech-Final-Year-Project)]
 
----
-
-### Acknowledgements
-
-Special thanks to Yahoo Finance, News APIs, and Tableau for providing the tools and data that made this project possible.
